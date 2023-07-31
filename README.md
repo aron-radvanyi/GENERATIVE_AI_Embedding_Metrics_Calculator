@@ -1,7 +1,7 @@
 
 # Description 
 
-This is a Jupyter Notebook file to calculate the 3 most popular Word Embedding-based metrics to evaluate a generative conversational chatbot's answering performance for dialogue texts. 
+This is a Jupyter Notebook file to calculate the 3 most popular Word Embedding-based metrics with Pytnon to evaluate a generative conversational chatbot's answering performance for dialogue texts. 
 
 The 3 metrics implemented: 
 * #### Greedy Matching score, the cosine similarity matching between the 300d vectors of the reference answer and the chatbot's answer
